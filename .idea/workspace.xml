@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbb3ceb-df04-4044-87cc-21c43ee302a9" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/779ea91c-b533-437e-83e0-bbf4ea307796.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/779ea91c-b533-437e-83e0-bbf4ea307796/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sllxgmm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/coupon-service/coupon-common/coupon-common.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/coupon-service/coupon-distribution/coupon-distribution.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/coupon-service/coupon-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +66,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Z6klPVEZX4zh6nPrpGJTDH0Pgy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -259,12 +248,25 @@
       <workItem from="1584253331529" duration="17739000" />
       <workItem from="1584324523425" duration="32019000" />
       <workItem from="1584409804161" duration="5000" />
-      <workItem from="1584409815516" duration="275000" />
+      <workItem from="1584409815516" duration="567000" />
     </task>
+    <task id="LOCAL-00001" summary="commit all">
+      <created>1584410366889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584410366889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit all" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all" />
   </component>
   <component name="WindowStateProjectService">
     <state x="557" y="113" key="#Assign_Data_Sources" timestamp="1584258308210">
@@ -295,6 +297,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="87" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1584271819628" />
+    <state x="434" y="0" key="CommitChangelistDialog2" timestamp="1584410365891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="434" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584410365891" />
     <state width="1404" height="103" key="GridCell.Tab.0.bottom" timestamp="1584369737369">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
